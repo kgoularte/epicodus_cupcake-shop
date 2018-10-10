@@ -1,0 +1,42 @@
+body {
+  background-color: #ffe9ec;
+}
+h1 {
+  font-size: 50px;
+  text-align: center;
+  text-shadow: 5px 10px 50px grey;
+}
+h2 {
+  font-size: 30px;
+  text-align: center;
+  font-weight: bold;
+  text-shadow: 5px 10px 50px grey;
+}
+h3 {
+  font-size: 30px;
+  text-align: center;
+  font-weight: bold;
+  text-shadow: 5px 10px 50px grey;
+}
+li {
+  font-size: 20px;
+  text-align: center;
+  text-shadow: 5px 10px 20px grey;
+}
+p {
+  font-size: 30px;
+  text-align: center;
+  font-weight: bold;
+  text-shadow: 5px 10px 20px grey;
+}
+.flashy {
+  color: red;
+  font-style: italic;
+}
+#home {
+  font-size: 15px;
+  display:block;
+  text-align:center;
+  text-shadow: 5px 10px 50px grey;
+
+}
